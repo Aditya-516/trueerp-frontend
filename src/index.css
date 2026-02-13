@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    background: #e6f0ff;
+    color: white;
+    font-family: "Outfit", sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}

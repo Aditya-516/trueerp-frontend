@@ -1,0 +1,23 @@
+.stats-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 100px;
+  background: white;
+  text-align: center;
+}
+
+.stat-card {
+  flex: 1;
+}
+
+.stat-card h1 {
+  font-size: 48px;
+  color: #2a64b5;
+  margin-bottom: 10px;
+}
+
+.stat-card p {
+  color: #555;
+  font-size: 16px;
+}
